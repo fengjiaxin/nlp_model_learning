@@ -1,0 +1,15 @@
+INFO:root:开始训练模型
+INFO:root:## 1.begin training
+INFO:root:train epoch=0,batch_id=0,loss=0.021703341975808144
+INFO:root:train epoch=1,batch_id=0,loss=0.021620001643896103
+INFO:root:开始测试模型
+INFO:root:begin test
+INFO:root:test batch_id = 0
+INFO:root:test batch_id = 1
+INFO:root:test batch_id = 2
+INFO:root:test batch_id = 3
+INFO:root:test batch_id = 4
+INFO:root:test batch_id = 5
+INFO:root:test batch_id = 6
+INFO:root:test batch_id = 7
+INFO:root:Accuracy of the network on test set: 74 %
