@@ -1,0 +1,18 @@
+INFO:root:开始训练模型
+INFO:root:## 1.begin training  
+INFO:root:train epoch=0,batch_id=0,loss=2.209404945373535
+INFO:root:train epoch=0,batch_id=1000,loss=0.6035274267196655
+INFO:root:train epoch=0,batch_id=2000,loss=0.3758837878704071
+INFO:root:train epoch=0,batch_id=3000,loss=0.3044283390045166
+INFO:root:train epoch=0,batch_id=4000,loss=0.3303300738334656
+INFO:root:train epoch=1,batch_id=0,loss=0.30393680930137634
+INFO:root:train epoch=1,batch_id=1000,loss=0.29371142387390137
+INFO:root:train epoch=1,batch_id=2000,loss=0.29361993074417114
+INFO:root:train epoch=1,batch_id=3000,loss=0.29212686419487
+INFO:root:train epoch=1,batch_id=4000,loss=0.2911447286605835
+INFO:root:保存模型参数
+INFO:root:保存word_embedding
+Traceback (most recent call last):
+  File "train_test.py", line 75, in <module>
+    word = idx_to_word(i)
+TypeError: 'dict' object is not callable
